@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|e:\\ecommerce asp.net\\e-commerce-website\\client side\\clientside-kahreedo.pk\\kahreedo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\kahreedo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EA9351-4365-4D3F-BF48-260314FEF665}|Kahreedo\\Khareedo.csproj|solutionrelative:kahreedo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Web.config",
+              "RelativeDocumentMoniker": "Kahreedo\\Web.config",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Web.config",
+              "RelativeToolTip": "Kahreedo\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-17T06:06:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Kahreedo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:58:40.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Kahreedo\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:58:10.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Kahreedo\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:51:40.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\App_Start\\FilterConfig.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Kahreedo\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:51:39.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Kahreedo\\App_Start\\BundleConfig.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Client Side\\ClientSide-Kahreedo.pk\\Kahreedo\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Kahreedo\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:51:33.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

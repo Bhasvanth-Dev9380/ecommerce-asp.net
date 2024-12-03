@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|e:\\ecommerce asp.net\\e-commerce-website\\admin side\\ims-project\\ims-project\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\ims-project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\ims-project\\controllers\\admin_logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\controllers\\admin_logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\ims-project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\ims-project\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\ims-project\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\ims-project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\ims-project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B8B0F7-1772-41DE-ADEB-953FE8C58A7C}|IMS-Project\\IMS-Project.csproj|solutionrelative:ims-project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Web.config",
+              "RelativeDocumentMoniker": "IMS-Project\\Web.config",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Web.config",
+              "RelativeToolTip": "IMS-Project\\Web.config",
+              "ViewState": "AgIAADcAAAAAAAAAAAAWwEcAAADlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-17T06:54:00.441Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "IMS-Project\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "IMS-Project\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:00:12.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "IMS-Project\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "IMS-Project\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA8wDgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:37:42.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "IMS-Project\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "IMS-Project\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:37:12.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin_LoginController.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\admin_LoginController.cs",
+              "RelativeDocumentMoniker": "IMS-Project\\Controllers\\admin_LoginController.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\admin_LoginController.cs",
+              "RelativeToolTip": "IMS-Project\\Controllers\\admin_LoginController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:12:17.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "IMS-Project\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "IMS-Project\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA8wFkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:37:54.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "IMS-Project\\Controllers\\SupplierController.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "IMS-Project\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:27:22.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "IMS-Project\\Controllers\\ProfileController.cs",
+              "ToolTip": "E:\\ecommerce asp.net\\E-Commerce-Website\\Admin Side\\IMS-Project\\IMS-Project\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "IMS-Project\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:38:04.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
